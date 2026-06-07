@@ -1,0 +1,311 @@
+{
+  "classes": [
+    {
+      "id": "id_1772531301192uhxbt3",
+      "name": "六年级8班",
+      "groupMode": false
+    }
+  ],
+  "students": [
+    {
+      "id": "id_1772531658970wk1zdw",
+      "name": "陈金铭",
+      "points": 44,
+      "classId": "id_1772531301192uhxbt3",
+      "groupId": null
+    },
+    {
+      "id": "id_1772531663849ce6bbq",
+      "name": "陈曼妮",
+      "points": 15,
+      "classId": "id_1772531301192uhxbt3",
+      "groupId": null
+    },
+    {
+      "id": "id_1772531669889fzwxzq",
+      "name": "崔佳忆",
+      "points": 10,
+      "classId": "id_1772531301192uhxbt3",
+      "groupId": null
+    },
+    {
+      "id": "id_1772531674993y4fvm9",
+      "name": "邓轩宇",
+      "points": 0,
+      "classId": "id_1772531301192uhxbt3",
+      "groupId": null
+    },
+    {
+      "id": "id_1772531680993ngxo3f",
+      "name": "丁智森",
+      "points": -2,
+      "classId": "id_1772531301192uhxbt3",
+      "groupId": null
+    },
+    {
+      "id": "id_1772531686202pymqd1",
+      "name": "范馨橙",
+      "points": 12,
+      "classId": "id_1772531301192uhxbt3",
+      "groupId": null
+    },
+    {
+      "id": "id_17725316933768o3sn3",
+      "name": "黄欣悦",
+      "points": 22,
+      "classId": "id_1772531301192uhxbt3",
+      "groupId": null
+    },
+    {
+      "id": "id_1772531700152l5ome1",
+      "name": "赖雨婷",
+      "points": 1,
+      "classId": "id_1772531301192uhxbt3",
+      "groupId": null
+    },
+    {
+      "id": "id_17725317045604d2cj0",
+      "name": "李浩宇",
+      "points": 9,
+      "classId": "id_1772531301192uhxbt3",
+      "groupId": null
+    },
+    {
+      "id": "id_1772531708832vs1zs2",
+      "name": "李睿宸",
+      "points": -4,
+      "classId": "id_1772531301192uhxbt3",
+      "groupId": null
+    },
+    {
+      "id": "id_1772531713232dn4vfj",
+      "name": "李亦晨",
+      "points": 6,
+      "classId": "id_1772531301192uhxbt3",
+      "groupId": null
+    },
+    {
+      "id": "id_1772531719209wyoyb1",
+      "name": "李雨粮",
+      "points": 10,
+      "classId": "id_1772531301192uhxbt3",
+      "groupId": null
+    },
+    {
+      "id": "id_17725317248000p3pt1",
+      "name": "李玥辰",
+      "points": 3,
+      "classId": "id_1772531301192uhxbt3",
+      "groupId": null
+    },
+    {
+      "id": "id_1772531731972p9vqvf",
+      "name": "刘锦程",
+      "points": 20,
+      "classId": "id_1772531301192uhxbt3",
+      "groupId": null
+    },
+    {
+      "id": "id_1772531737055row42q",
+      "name": "刘若诗",
+      "points": 22,
+      "classId": "id_1772531301192uhxbt3",
+      "groupId": null
+    },
+    {
+      "id": "id_1772531742208mw2hxk",
+      "name": "刘雅琦",
+      "points": 11,
+      "classId": "id_1772531301192uhxbt3",
+      "groupId": null
+    },
+    {
+      "id": "id_17725317593432qutzr",
+      "name": "刘依朵",
+      "points": 28,
+      "classId": "id_1772531301192uhxbt3",
+      "groupId": null
+    },
+    {
+      "id": "id_1772531763983ufojgy",
+      "name": "刘宇涵",
+      "points": 1,
+      "classId": "id_1772531301192uhxbt3",
+      "groupId": null
+    },
+    {
+      "id": "id_1772531770478mv13xh",
+      "name": "刘雨帅",
+      "points": -9,
+      "classId": "id_1772531301192uhxbt3",
+      "groupId": null
+    },
+    {
+      "id": "id_17725317751593tif2x",
+      "name": "刘梓阳",
+      "points": 2,
+      "classId": "id_1772531301192uhxbt3",
+      "groupId": null
+    },
+    {
+      "id": "id_1772531785070enb7a9",
+      "name": "柳明发",
+      "points": 52,
+      "classId": "id_1772531301192uhxbt3",
+      "groupId": null
+    },
+    {
+      "id": "id_1772531790104wfbg04",
+      "name": "龙仁智",
+      "points": 11,
+      "classId": "id_1772531301192uhxbt3",
+      "groupId": null
+    },
+    {
+      "id": "id_1772531862295hotcua",
+      "name": "龙婷",
+      "points": -2,
+      "classId": "id_1772531301192uhxbt3",
+      "groupId": null
+    },
+    {
+      "id": "id_17725318686691vyzvg",
+      "name": "欧阳念新",
+      "points": 17,
+      "classId": "id_1772531301192uhxbt3",
+      "groupId": null
+    },
+    {
+      "id": "id_1772531873024mrjrbk",
+      "name": "邱依诺",
+      "points": 14,
+      "classId": "id_1772531301192uhxbt3",
+      "groupId": null
+    },
+    {
+      "id": "id_1772531877157jsv6fw",
+      "name": "沈妍翾",
+      "points": 43,
+      "classId": "id_1772531301192uhxbt3",
+      "groupId": null
+    },
+    {
+      "id": "id_177253188498911ompt",
+      "name": "施又佑",
+      "points": 44,
+      "classId": "id_1772531301192uhxbt3",
+      "groupId": null
+    },
+    {
+      "id": "id_1772531889845ulc5py",
+      "name": "孙雅萌",
+      "points": 31,
+      "classId": "id_1772531301192uhxbt3",
+      "groupId": null
+    },
+    {
+      "id": "id_1772531894765bshnst",
+      "name": "王子翊",
+      "points": 11,
+      "classId": "id_1772531301192uhxbt3",
+      "groupId": null
+    },
+    {
+      "id": "id_1772531986675qrhx0g",
+      "name": "魏真好",
+      "points": 9,
+      "classId": "id_1772531301192uhxbt3",
+      "groupId": null
+    },
+    {
+      "id": "id_1772531991363wermwn",
+      "name": "吴辰熙",
+      "points": 3,
+      "classId": "id_1772531301192uhxbt3",
+      "groupId": null
+    },
+    {
+      "id": "id_1772532034186906fvo",
+      "name": "吴俊立",
+      "points": 69,
+      "classId": "id_1772531301192uhxbt3",
+      "groupId": null
+    },
+    {
+      "id": "id_1772532050690pxag7v",
+      "name": "吴鑫博",
+      "points": -2,
+      "classId": "id_1772531301192uhxbt3",
+      "groupId": null
+    },
+    {
+      "id": "id_1772532057785bftfdp",
+      "name": "谢鸿鑫",
+      "points": 8,
+      "classId": "id_1772531301192uhxbt3",
+      "groupId": null
+    },
+    {
+      "id": "id_1772532065188qmxkrj",
+      "name": "杨煜祺",
+      "points": 3,
+      "classId": "id_1772531301192uhxbt3",
+      "groupId": null
+    },
+    {
+      "id": "id_17725320703773d6i4o",
+      "name": "叶瀚铖",
+      "points": 5,
+      "classId": "id_1772531301192uhxbt3",
+      "groupId": null
+    },
+    {
+      "id": "id_1772532077201j7n2m8",
+      "name": "叶贤洪",
+      "points": 0,
+      "classId": "id_1772531301192uhxbt3",
+      "groupId": null
+    },
+    {
+      "id": "id_1772532081689ek0jyn",
+      "name": "易昊宸",
+      "points": 1,
+      "classId": "id_1772531301192uhxbt3",
+      "groupId": null
+    },
+    {
+      "id": "id_1772532087089sj3yl2",
+      "name": "易梓茜",
+      "points": 12,
+      "classId": "id_1772531301192uhxbt3",
+      "groupId": null
+    },
+    {
+      "id": "id_17725321103537i7ehi",
+      "name": "张晨阳",
+      "points": 24,
+      "classId": "id_1772531301192uhxbt3",
+      "groupId": null
+    },
+    {
+      "id": "id_17725321149774t3ztb",
+      "name": "周梦瑶",
+      "points": 9,
+      "classId": "id_1772531301192uhxbt3",
+      "groupId": null
+    }
+  ],
+  "profile": {
+    "avatar": "钟",
+    "gender": "保密",
+    "vipExpire": 1780529466279,
+    "systemActivatedUntil": 4933524674732
+  },
+  "groups": [],
+  "installedApps": [
+    "system_updater",
+    "xiaowo_ai",
+    "whiteboard"
+  ],
+  "randomProbWeights": {}
+}
