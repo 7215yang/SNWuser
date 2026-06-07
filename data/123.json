@@ -1,6 +1,27 @@
 {
-  "classes": [],
-  "students": [],
+  "classes": [
+    {
+      "id": "id_1780793248450twb86j",
+      "name": "123",
+      "groupMode": false
+    }
+  ],
+  "students": [
+    {
+      "id": "id_1780793251906rjmr3h",
+      "name": "123",
+      "points": -3,
+      "classId": "id_1780793248450twb86j",
+      "groupId": null
+    },
+    {
+      "id": "id_1780793253329d6x4tf",
+      "name": "123",
+      "points": 0,
+      "classId": "id_1780793248450twb86j",
+      "groupId": null
+    }
+  ],
   "groups": [],
   "profile": {
     "avatar": "1",
