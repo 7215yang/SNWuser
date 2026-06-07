@@ -1,0 +1,15 @@
+{
+  "classes": [],
+  "students": [],
+  "groups": [],
+  "profile": {
+    "avatar": "1",
+    "gender": "保密",
+    "vipExpire": 0,
+    "systemActivatedUntil": 0
+  },
+  "installedApps": [
+    "system_updater"
+  ],
+  "randomProbWeights": {}
+}
