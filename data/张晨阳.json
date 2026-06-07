@@ -1,0 +1,31 @@
+{
+  "classes": [
+    {
+      "id": "id_1778110453036eipnum",
+      "name": "123",
+      "groupMode": false
+    }
+  ],
+  "students": [
+    {
+      "id": "id_1778110460421i1ro0j",
+      "name": "张晨阳",
+      "points": 0,
+      "classId": "id_1778110453036eipnum",
+      "groupId": null
+    }
+  ],
+  "groups": [],
+  "profile": {
+    "avatar": "张",
+    "gender": "保密",
+    "vipExpire": 0,
+    "systemActivatedUntil": 4930501973369
+  },
+  "installedApps": [
+    "system_updater",
+    "xiaowo_ai",
+    "whiteboard"
+  ],
+  "randomProbWeights": {}
+}
