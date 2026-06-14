@@ -1,36 +1,10 @@
 {
-  "classes": [
-    {
-      "id": "id_1780793248450twb86j",
-      "name": "123",
-      "groupMode": false
-    }
-  ],
-  "students": [
-    {
-      "id": "id_1780793251906rjmr3h",
-      "name": "123",
-      "points": -3,
-      "classId": "id_1780793248450twb86j",
-      "groupId": null
-    },
-    {
-      "id": "id_1780793253329d6x4tf",
-      "name": "123",
-      "points": 3,
-      "classId": "id_1780793248450twb86j",
-      "groupId": null
-    }
-  ],
+  "classes": [],
+  "students": [],
   "groups": [],
   "profile": {
     "avatar": "1",
-    "gender": "保密",
-    "vipExpire": 0,
-    "systemActivatedUntil": 1781398445194
-  },
-  "installedApps": [
-    "system_updater"
-  ],
-  "randomProbWeights": {}
+    "gender": "男",
+    "vipExpire": 1773236869873
+  }
 }
