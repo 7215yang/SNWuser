@@ -1,31 +1,37 @@
 {
   "classes": [
     {
-      "id": "id_1778110453036eipnum",
+      "id": "id_1778061674809em7i55",
       "name": "123",
       "groupMode": false
     }
   ],
   "students": [
     {
-      "id": "id_1778110460421i1ro0j",
+      "id": "id_1778061757924er1jxg",
       "name": "张晨阳",
-      "points": 0,
-      "classId": "id_1778110453036eipnum",
+      "points": 9999,
+      "classId": "id_1778061674809em7i55",
+      "groupId": null
+    },
+    {
+      "id": "id_1778062764166vlbw8v",
+      "name": "叶瀚城",
+      "points": -9999,
+      "classId": "id_1778061674809em7i55",
       "groupId": null
     }
   ],
   "groups": [],
   "profile": {
     "avatar": "张",
-    "gender": "保密",
-    "vipExpire": 0,
-    "systemActivatedUntil": 4930501973369
+    "gender": "男",
+    "vipExpire": 1778666484031,
+    "systemActivatedUntil": 1778583337131
   },
   "installedApps": [
     "system_updater",
-    "xiaowo_ai",
-    "whiteboard"
+    "xiaowo_ai"
   ],
   "randomProbWeights": {}
 }
