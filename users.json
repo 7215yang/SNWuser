@@ -1,12 +1,14 @@
-[
-  {
-    "username": "张晨阳",
-    "realName": "张晨阳",
-    "password": "7215yang"
-  },
-  {
-    "username": "123",
-    "realName": "123",
-    "password": "123"
-  }
-]
+{
+  "users": [
+    {
+      "id": "snw_mqn2c1v1gzwf",
+      "realName": "张晨阳",
+      "microsoft": "3315089732@qq.com",
+      "username": "zhangcy",
+      "password": "7215yang",
+      "avatar": "https://minotar.net/avatar/Alex/100.png",
+      "createdAt": "2026-06-21T00:43:14.413Z",
+      "role": "member"
+    }
+  ]
+}
